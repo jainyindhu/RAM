@@ -1,0 +1,8 @@
+Address = 000 → Data_Out = 10H
+Address = 001 → Data_Out = 20H
+Address = 010 → Data_Out = 30H
+Address = 011 → Data_Out = 40H
+Address = 100 → Data_Out = 50H
+Address = 101 → Data_Out = 60H
+Address = 110 → Data_Out = 70H
+Address = 111 → Data_Out = 80H
